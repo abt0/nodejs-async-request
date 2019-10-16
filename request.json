@@ -1,0 +1,8 @@
+{
+  "url": "http://example.net",
+  "method": "POST",
+  "form": {
+    "param1": "",
+    "param2": ""
+  }
+}
